@@ -1,0 +1,9 @@
+{
+    "presets": ["@babel/react"],
+    "plugins": [
+        "@babel/plugin-syntax-dynamic-import", "import", {
+            "libraryName": "antd-mobile",
+            "style": "css"
+        }
+    ]
+}
